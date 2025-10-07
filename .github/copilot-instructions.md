@@ -22,3 +22,20 @@ Ao gerar conteúdo para este projeto:
 ## Padrão de Commits
 
 Sempre utilize o padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/) ao realizar commits neste projeto. Isso garante histórico organizado e facilita o entendimento das mudanças.
+
+### Exemplos de Conventional Commits
+
+- **feat:** Adiciona nova funcionalidade ou recurso
+	- Exemplo: `feat: adiciona página de detalhes da tarefa`
+- **fix:** Corrige um bug
+	- Exemplo: `fix: corrige erro de carregamento das tarefas`
+- **docs:** Atualiza documentação
+	- Exemplo: `docs: atualiza README com instruções de uso`
+- **style:** Ajusta formatação, espaços, ponto e vírgula, etc. (sem alteração de código funcional)
+	- Exemplo: `style: padroniza indentação do CSS`
+- **refactor:** Refatora código sem alterar funcionalidade
+	- Exemplo: `refactor: simplifica função de listagem de tarefas`
+- **test:** Adiciona ou corrige testes
+	- Exemplo: `test: adiciona testes para componente de tarefa`
+- **chore:** Atualiza tarefas de build, dependências, configurações, etc.
+	- Exemplo: `chore: atualiza dependências do projeto`
